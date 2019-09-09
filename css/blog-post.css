@@ -7,3 +7,10 @@ body {
         padding-top: 56px;
     }
 }
+
+table, td, tr {
+    border: 0px solid black;
+    padding: 5px;
+    margin-left: 20px;
+    width: 100%;
+}
